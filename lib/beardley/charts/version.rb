@@ -1,5 +1,5 @@
 module Beardley
   module Charts
-    VERSION = "0.0.0"
+    VERSION = '0.0.1'.freeze
   end
 end
